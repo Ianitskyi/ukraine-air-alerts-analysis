@@ -1,0 +1,25 @@
+rank,oblast,avg_alert_hours_per_day,median_alert_hours,max_alert_hours,alert_day_probability
+1,Dnipropetrovska oblast,19.66,23.0,25,99.9
+2,Kharkivska oblast,16.21,18.0,25,99.6
+3,Donetska oblast,16.11,17.0,25,99.6
+4,Sumska oblast,11.64,9.0,24,95.0
+5,Zaporizka oblast,11.42,11.0,24,99.6
+6,Poltavska oblast,7.94,7.0,24,96.0
+7,Chernihivska oblast,7.88,5.0,25,85.6
+8,Mykolaivska oblast,6.34,6.0,20,93.6
+9,Khersonska oblast,6.16,6.0,24,85.9
+10,Kirovohradska oblast,5.6,5.0,19,91.9
+11,Cherkaska oblast,4.86,4.0,19,86.5
+12,Kyivska oblast,4.7,4.0,23,79.0
+13,Odeska oblast,4.2,3.0,24,83.4
+14,Zhytomyrska oblast,2.99,2.0,20,65.9
+15,Kyiv City,2.85,2.0,20,70.2
+16,Vinnytska oblast,2.54,2.0,15,65.7
+17,Khmelnytska oblast,1.85,1.0,13,52.5
+18,Rivnenska oblast,1.55,0.0,14,46.6
+19,Ternopilska oblast,1.28,0.0,12,41.7
+20,Volynska oblast,1.21,0.0,12,40.1
+21,Chernivetska oblast,1.17,0.0,11,39.9
+22,Lvivska oblast,1.1,0.0,11,37.3
+23,Ivano-Frankivska oblast,1.1,0.0,11,38.1
+24,Zakarpatska oblast,1.03,0.0,24,35.2

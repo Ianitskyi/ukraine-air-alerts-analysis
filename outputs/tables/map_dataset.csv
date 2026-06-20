@@ -1,0 +1,28 @@
+geojson_name,dataset_name,en_name,uk_name,status,rank,avg_alert_hours_per_day,median_alert_hours,max_alert_hours,alert_day_probability,risk_category
+Kherson Oblast,Khersonska oblast,Khersonska oblast,Херсонська область,analyzed,9.0,6.16,6.0,24.0,85.9,High
+Volyn Oblast,Volynska oblast,Volynska oblast,Волинська область,analyzed,20.0,1.21,0.0,12.0,40.1,Low
+Rivne Oblast,Rivnenska oblast,Rivnenska oblast,Рівненська область,analyzed,18.0,1.55,0.0,14.0,46.6,Low
+Zhytomyr Oblast,Zhytomyrska oblast,Zhytomyrska oblast,Житомирська область,analyzed,14.0,2.99,2.0,20.0,65.9,Medium
+Kyiv Oblast,Kyivska oblast,Kyivska oblast,Київська область,analyzed,12.0,4.7,4.0,23.0,79.0,High
+Chernihiv Oblast,Chernihivska oblast,Chernihivska oblast,Чернігівська область,analyzed,7.0,7.88,5.0,25.0,85.6,High
+Sumy Oblast,Sumska oblast,Sumska oblast,Сумська область,analyzed,4.0,11.64,9.0,24.0,95.0,Very high
+Kharkiv Oblast,Kharkivska oblast,Kharkivska oblast,Харківська область,analyzed,2.0,16.21,18.0,25.0,99.6,Very high
+Luhansk Oblast,Luhanska oblast,Luhanska oblast,Луганська область,excluded,,,,,,Excluded
+Donetsk Oblast,Donetska oblast,Donetska oblast,Донецька область,analyzed,3.0,16.11,17.0,25.0,99.6,Very high
+Zaporizhia Oblast,Zaporizka oblast,Zaporizka oblast,Запорізька область,analyzed,5.0,11.42,11.0,24.0,99.6,Very high
+Lviv Oblast,Lvivska oblast,Lvivska oblast,Львівська область,analyzed,22.0,1.1,0.0,11.0,37.3,Low
+Ivano-Frankivsk Oblast,Ivano-Frankivska oblast,Ivano-Frankivska oblast,Івано-Франківська область,analyzed,23.0,1.1,0.0,11.0,38.1,Low
+Zakarpattia Oblast,Zakarpatska oblast,Zakarpatska oblast,Закарпатська область,analyzed,24.0,1.03,0.0,24.0,35.2,Low
+Ternopil Oblast,Ternopilska oblast,Ternopilska oblast,Тернопільська область,analyzed,19.0,1.28,0.0,12.0,41.7,Low
+Chernivtsi Oblast,Chernivetska oblast,Chernivetska oblast,Чернівецька область,analyzed,21.0,1.17,0.0,11.0,39.9,Low
+Odessa Oblast,Odeska oblast,Odeska oblast,Одеська область,analyzed,13.0,4.2,3.0,24.0,83.4,High
+Mykolaiv Oblast,Mykolaivska oblast,Mykolaivska oblast,Миколаївська область,analyzed,8.0,6.34,6.0,20.0,93.6,Very high
+Autonomous Republic of Crimea,Crimea,Crimea,Автономна Республіка Крим,excluded,,,,,,Excluded
+Vinnytsia Oblast,Vinnytska oblast,Vinnytska oblast,Вінницька область,analyzed,16.0,2.54,2.0,15.0,65.7,Medium
+Khmelnytskyi Oblast,Khmelnytska oblast,Khmelnytska oblast,Хмельницька область,analyzed,17.0,1.85,1.0,13.0,52.5,Medium
+Cherkasy Oblast,Cherkaska oblast,Cherkaska oblast,Черкаська область,analyzed,11.0,4.86,4.0,19.0,86.5,High
+Poltava Oblast,Poltavska oblast,Poltavska oblast,Полтавська область,analyzed,6.0,7.94,7.0,24.0,96.0,Very high
+Dnipropetrovsk Oblast,Dnipropetrovska oblast,Dnipropetrovska oblast,Дніпропетровська область,analyzed,1.0,19.66,23.0,25.0,99.9,Very high
+Kirovohrad Oblast,Kirovohradska oblast,Kirovohradska oblast,Кіровоградська область,analyzed,10.0,5.6,5.0,19.0,91.9,Very high
+Kyiv,Kyiv City,Kyiv City,Київ,status_special,15.0,2.85,2.0,20.0,70.2,High
+Sevastopol,Sevastopol,Sevastopol,Севастополь,excluded,,,,,,Excluded

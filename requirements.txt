@@ -1,0 +1,6 @@
+pandas
+requests
+tabulate
+matplotlib
+plotly
+streamlit

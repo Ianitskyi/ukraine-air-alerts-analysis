@@ -1,0 +1,28 @@
+dataset_oblast,en_name,uk_name,status
+Cherkaska oblast,Cherkaska oblast,Черкаська область,analyzed
+Chernihivska oblast,Chernihivska oblast,Чернігівська область,analyzed
+Chernivetska oblast,Chernivetska oblast,Чернівецька область,analyzed
+Dnipropetrovska oblast,Dnipropetrovska oblast,Дніпропетровська область,analyzed
+Donetska oblast,Donetska oblast,Донецька область,analyzed
+Ivano-Frankivska oblast,Ivano-Frankivska oblast,Івано-Франківська область,analyzed
+Kharkivska oblast,Kharkivska oblast,Харківська область,analyzed
+Khersonska oblast,Khersonska oblast,Херсонська область,analyzed
+Khmelnytska oblast,Khmelnytska oblast,Хмельницька область,analyzed
+Kirovohradska oblast,Kirovohradska oblast,Кіровоградська область,analyzed
+Kyiv City,Kyiv City,Київ,status_special
+Kyivska oblast,Kyivska oblast,Київська область,analyzed
+Lvivska oblast,Lvivska oblast,Львівська область,analyzed
+Mykolaivska oblast,Mykolaivska oblast,Миколаївська область,analyzed
+Odeska oblast,Odeska oblast,Одеська область,analyzed
+Poltavska oblast,Poltavska oblast,Полтавська область,analyzed
+Rivnenska oblast,Rivnenska oblast,Рівненська область,analyzed
+Sumska oblast,Sumska oblast,Сумська область,analyzed
+Ternopilska oblast,Ternopilska oblast,Тернопільська область,analyzed
+Vinnytska oblast,Vinnytska oblast,Вінницька область,analyzed
+Volynska oblast,Volynska oblast,Волинська область,analyzed
+Zakarpatska oblast,Zakarpatska oblast,Закарпатська область,analyzed
+Zaporizka oblast,Zaporizka oblast,Запорізька область,analyzed
+Zhytomyrska oblast,Zhytomyrska oblast,Житомирська область,analyzed
+Luhanska oblast,Luhanska oblast,Луганська область,excluded
+Crimea,Crimea,Автономна Республіка Крим,excluded
+Sevastopol,Sevastopol,Севастополь,excluded
