@@ -39,7 +39,7 @@ Interactive dashboard for analyzing historical air raid alert patterns across Uk
 ## Live Demo
 
 🌐 Streamlit App:
-https://ТУТ_ТВОЄ_ПОСИЛАННЯ.streamlit.app
+https://ukraine-air-alerts-analysis.streamlit.app/
 
 ## GitHub Repository
 
