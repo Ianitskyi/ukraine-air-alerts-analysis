@@ -183,6 +183,12 @@ with top_left:
     st.title(t["title"])
     st.markdown(f"<div class='subtitle'>{t['subtitle']}</div>", unsafe_allow_html=True)
 
+st.info(
+    "📱 Для зручного перегляду карт і теплових діаграм на смартфоні поверніть екран горизонтально."
+    if lang == "uk"
+    else "📱 For better viewing of maps and heatmaps on a smartphone, please rotate your screen horizontally."
+)
+
 with top_right:
     st.write("")
     if st.button(t["switch"], use_container_width=True):
