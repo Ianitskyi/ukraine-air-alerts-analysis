@@ -32,3 +32,20 @@ The primary dataset is the Ukrainian Air Raid Sirens Dataset by Vadimkin on GitH
 - time-series charts
 - analytical report
 - Streamlit web dashboard
+# Ukraine Air Alerts Atlas
+
+Interactive dashboard for analyzing historical air raid alert patterns across Ukrainian regions.
+
+## Live Demo
+
+🌐 Streamlit App:
+https://ТУТ_ТВОЄ_ПОСИЛАННЯ.streamlit.app
+
+## GitHub Repository
+
+https://github.com/Ianitskyi/ukraine-air-alerts-analysis
+
+## Data Source
+
+This project uses historical air raid alert data from:
+https://github.com/Vadimkin/ukrainian-air-raid-sirens-dataset
