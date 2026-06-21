@@ -4,3 +4,6 @@ tabulate
 matplotlib
 plotly
 streamlit
+geopandas
+pyogrio
+shapely
